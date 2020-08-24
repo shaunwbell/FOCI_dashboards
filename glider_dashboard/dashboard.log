@@ -1,0 +1,7 @@
+2020-08-21 14:28:57,709 Starting Bokeh server version 2.0.2 (running on Tornado 6.0.4)
+2020-08-21 14:28:57,716 User authentication hooks NOT provided (default user enabled)
+2020-08-21 14:28:57,720 Bokeh app running at: http://localhost:8947/oculus/glider_dashboard
+2020-08-21 14:28:57,720 Starting Bokeh server with process id: 6696
+2020-08-21 14:29:56,887 Setting non-parameter attribute framewise=True using a mechanism intended only for parameters
+2020-08-21 14:29:56,899 Setting non-parameter attribute framewise=True using a mechanism intended only for parameters
+2020-08-21 14:29:56,911 Setting non-parameter attribute framewise=True using a mechanism intended only for parameters

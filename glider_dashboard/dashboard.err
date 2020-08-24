@@ -1,0 +1,3 @@
+WARNING:param.Scatter03854: Setting non-parameter attribute framewise=True using a mechanism intended only for parameters
+WARNING:param.Scatter03892: Setting non-parameter attribute framewise=True using a mechanism intended only for parameters
+WARNING:param.Scatter03930: Setting non-parameter attribute framewise=True using a mechanism intended only for parameters

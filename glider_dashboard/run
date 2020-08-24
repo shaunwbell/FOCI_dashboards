@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf dashboard.out dashboard.err dashboard.log
+panel serve --prefix /oculus --disable-index-redirect --port 8947 --allow-websocket-origin haboob.local:8947 --log-file dashboard.log glider_dashboard.ipynb > dashboard.out 2>dashboard.err
